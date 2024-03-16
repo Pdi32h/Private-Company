@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-21 02:20+0330\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+#: .\base.html:10
+msgid "Shirin Bayan Co"
+msgstr "شرکت شیرین بیان"
+
+#: .\base.html:46 .\base.html:82
+msgid "Home"
+msgstr "خانه"
+
+#: .\base.html:49 .\base.html:86 .\base.html:318
+msgid "Products"
+msgstr "محصولات"
+
+#: .\base.html:52 .\base.html:90
+msgid "Pictures"
+msgstr "تصاویر"
+
+#: .\base.html:58 .\base.html:94 .\base.html:317
+msgid "Contact us"
+msgstr "تماس با ما"
+
+#: .\base.html:102
+msgid "Email:"
+msgstr "ایمیل"
+
+#: .\base.html:103
+msgid "Phone:"
+msgstr "تلفن"
+
+#: .\base.html:150
+msgid "Language"
+msgstr "زبان سایت"
+
+#: .\base.html:160
+msgid "Persian"
+msgstr "فارسی"
+
+#: .\base.html:161
+msgid "English"
+msgstr "انگلیسی"
+
+#: .\base.html:304
+msgid "© 2022 All rights of this site are reserved"
+msgstr "© 2022 کلیه حقوق این سایت محفوظ است"
+
+#: .\base.html:315
+msgid "Useful links"
+msgstr "لینک های مفید"
+
+#: .\base.html:319
+msgid "Gallery"
+msgstr "تصاویر"
+
+#: .\base.html:323
+msgid "Ways of communication"
+msgstr "راه های ارتباطی"

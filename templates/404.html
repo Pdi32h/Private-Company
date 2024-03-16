@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% load i18n %}
+{% load static %}
+
+
+{% block main %}
+    <div class="content-wrap ">
+        <div class="pt-210 pb-130 bg-linear-gradient text-center shape-parent">
+            <div class="container">
+                <h1 class="large-heading mb-20" data-show="startbox">404</h1>
+                <h3 class="mb-10" data-show="startbox" data-show-delay="100">Page not found</h3>
+                <p class="mb-40" data-show="startbox" data-show-delay="200">Perhaps you would like to go to our home
+                    page?</p>
+                <div data-show="startbox" data-show-delay="300">
+                    <a class="btn btn-accent-1" href="/" target="_self">Go to Home</a>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
